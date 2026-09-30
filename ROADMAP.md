@@ -1,0 +1,13 @@
+# Roadmap
+- [x] Core CLI (add, list, done, delete)
+- [x] Persistent storage (SQLite)
+- [x] Priorities, due dates, tags
+- [x] Filter, sort, search
+- [x] Edit command, validation
+- [x] Tests + GitHub Actions
+- [x] CSV export
+- [x] Tkinter desktop app
+- [ ] Screenshots in README
+- [ ] Build standalone executable (PyInstaller)
+- [ ] Dark mode
+- [ ] Tag release v1.0

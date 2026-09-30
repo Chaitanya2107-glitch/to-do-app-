@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Local database (important for this project)
+*.db
+*.sqlite3
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
